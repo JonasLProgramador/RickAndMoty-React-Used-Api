@@ -1,40 +1,4 @@
 <!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 20px;
-            line-height: 1.6;
-        }
-        h1, h2, h3 {
-            color: #333;
-        }
-        pre {
-            background-color: #f4f454;
-            padding: 10px;
-            border-radius: 5px;
-            overflow: auto;
-        }
-        code {
-            font-family: 'Courier New', Courier, monospace;
-            background-color: #f4f474;
-            padding: 2px 4px;
-            border-radius: 3px;
-        }
-        .container {
-            max-width: 800px;
-            margin: 0 auto;
-        }
-        ul {
-            padding-left: 20px;
-        }
-        a {
-            color: #0066cc;
-        }
-    </style>
-</head>
 <body>
     <div class="container">
         <h1>RickAndMorty-React-Used-Api</h1>
