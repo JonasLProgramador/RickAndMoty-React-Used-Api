@@ -2,6 +2,7 @@
 <body>
     <div class="container">
         <h1>RickAndMorty-React-Used-Api</h1>
+        <img src="https://github.com/JonasLProgramador/RickAndMoty-React-Used-Api/assets/172916273/4cf8032e-06dd-4957-abae-524017c763d9">
         <p>Este projeto consiste em uma aplicação React que consome a API do <a href="https://rickandmortyapi.com/" target="_blank">Rick and Morty</a>, exibindo informações sobre personagens em forma de cards na tela. O principal objetivo é consolidar o conhecimento em React, incluindo o uso de hooks, manipulação de estados e integração com APIs externas.</p>
         <h2>Sumário</h2>
         <ul>
